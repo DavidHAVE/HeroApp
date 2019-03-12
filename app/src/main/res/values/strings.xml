@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pahlawan App</string>
+
+    <string name="quiz_rule">Peraturan</string>
+
+    <string name="gallery">Lorem ipsum dolor sit amet, case laoreet referrentur at eos. Et duo brute tollit.</string>
+    <string name="puzzle">Lorem ipsum dolor sit amet, case laoreet referrentur at eos. Et duo brute tollit.</string>
+    <string name="quiz">Lorem ipsum dolor sit amet, case laoreet referrentur at eos. Et duo brute tollit.</string>
+
+</resources>

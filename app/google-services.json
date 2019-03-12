@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995036741129",
+    "firebase_url": "https://heroesapp-96b6c.firebaseio.com",
+    "project_id": "heroesapp-96b6c",
+    "storage_bucket": "heroesapp-96b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995036741129:android:07a2cbf7af993a7a",
+        "android_client_info": {
+          "package_name": "com.android.weni.pahlawan.pahlawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995036741129-qckpa8htdorj1mbs7v3r0fa23fmtbhkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.weni.pahlawan.pahlawan",
+            "certificate_hash": "07904ee4cf98e124b921c7455a1ab8c94a191c3d"
+          }
+        },
+        {
+          "client_id": "995036741129-mtbn0da1d2gngnoj4gnvu5dm57mfi60c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfLM_CwYjYz2hVY_x23Xr2ais6MqAdtns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995036741129-mtbn0da1d2gngnoj4gnvu5dm57mfi60c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
